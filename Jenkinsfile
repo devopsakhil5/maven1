@@ -1,4 +1,4 @@
-node('built-in') 
+node('built-in') 
 {
     // some block
     stage('CD') 
